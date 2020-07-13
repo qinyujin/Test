@@ -1,2 +1,3 @@
 测试一下TortoiseGit的使用
 Branch1
+Branch2
